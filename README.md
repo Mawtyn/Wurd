@@ -1,2 +1,2 @@
 # Wurd
-open Wurd executable and start typing
+Open Wurd executable and start typing.
